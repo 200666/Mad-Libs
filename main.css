@@ -1,0 +1,21 @@
+body{
+	background-color: #f8c851;
+	color:#5181f8;
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+}
+input ,#help{
+	background-color:#5181f8;
+	border-radius:5px;
+	border: solid #5181f8 2px;
+}
+::placeholder { 
+    color: white;
+}
+#submitbox{
+	height:50px;
+}
+#submit, #help{
+	marign:0 auto;
+	color: white;
+}
